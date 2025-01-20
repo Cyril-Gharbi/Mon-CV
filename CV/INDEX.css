@@ -1,0 +1,21 @@
+.MAIN_COLONNE_2 p {
+  font-weight: 650;
+  text-align: justify;
+  font-size: 1.4em;
+  padding: 40px 100px 0px 50px;
+  line-height: 1.5em;
+  margin: 0px 80px;
+}
+
+.Logo {
+  position: relative;
+  left: 45%;
+}
+
+
+@media screen and (max-width: 768px) {
+
+  header {
+    flex-direction: column;
+  }
+  }

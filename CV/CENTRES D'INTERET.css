@@ -1,0 +1,27 @@
+ul {
+  text-align: justify;
+  margin-left: 10%;
+  margin-top: 50px;
+  font-size: 1.1em;
+  color: #0A66C2;
+}
+
+.MAIN_COLONNE_2 h2 {
+  text-decoration: underline;
+  margin: 10px 0px 10px 0px;
+}
+
+.MAIN_COLONNE_2 p {
+  margin: 0px 150px 0px 60px;
+  color: black;
+  font-size: 1.1em;
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+header {
+  flex-direction: column;
+}
+}
