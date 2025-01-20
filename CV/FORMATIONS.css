@@ -1,0 +1,37 @@
+table {
+    margin: 30px 0px;
+    font-size: 1em;
+    color: #0A66C2;
+    width: 100%;
+  
+  }
+  
+  .BORDURE {
+    border-top: 5px solid rgb(10, 102, 194, 0.7);
+    border-bottom: 5px solid rgb(10, 102, 194, 0.7);
+    border-radius: 30% 30% 30% 30% / 10% 10% 10% 10%;
+    margin: 40px 100px 40px 70px;
+  }
+  
+  .COLONNE_1 {
+    padding: 30px;
+    width: 300px;
+  
+  }
+  
+  .COLONNE_2 {
+    padding: 30px;
+    width: 800px;
+    text-align: justify;
+  }
+  
+   
+  tr {
+  vertical-align: top;
+  font-weight: bold;
+  }
+  
+  .MAIN_COLONNE_2 p {
+  color: black;
+  font-weight: normal;
+  }
